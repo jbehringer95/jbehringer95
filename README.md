@@ -1,7 +1,5 @@
-### Hi there 👋, I'm Justin
-
-<!--
-**jbehringer95/jbehringer95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there 👋, I'm Justin</h1>
+<h3 align="center">A Data Scientist from Illinois that works alot with financial data </h3>
 
 Here are some ideas to get you started:
 
